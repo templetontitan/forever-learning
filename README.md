@@ -1,6 +1,6 @@
-# forever-learning
+# [Forever Learning or Other Suitable Title]
 
-## your learning diary
+## My Learning Diary
 
 ### Overview
 
